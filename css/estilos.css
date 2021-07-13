@@ -1,0 +1,16 @@
+@font-face {
+    font-family:steelfish;
+    src: url("assets/fonts/dafont/steelfish bd it.ttf");
+}
+
+body {
+  font-family: 'Montserrat', sans-serif!important;
+  font-family: 'steelfish', sans-serif;
+}
+nav ul li:hover{
+    background-color: #78C6B9;
+}
+carousel-item{
+  $carousel-indicator-height: 30px;
+
+}
